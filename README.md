@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a final-year Computer Science Engineering student at Sri Ramakrishna Institute of Technology, I'm passionate about harnessing technology to tackle real-world challenges. With a strong foundation in programming and a curiosity-driven mindset, I continuously seek to expand my skills across diverse areas of computer science and emerging technologies. I'm eager to connect with like-minded professionals and peers who share my drive for innovation. If you're working on exciting projects or know of opportunities where I can contribute and grow—let’s connect !
+Computer Science Engineering student passionate about building impactful solutions and solving real-world problems. Driven by curiosity, continuous learning, and meaningful innovation. Open to opportunities, collaborations, and new challenges.
 
 
 ## 🌐 Socials:
